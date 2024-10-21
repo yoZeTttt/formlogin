@@ -1,7 +1,7 @@
-/* Google Fonts Link */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Resetting default styling and setting font-family */
+
 * {
     margin: 0;
     padding: 0;
@@ -19,7 +19,7 @@ body {
     align-items: center;
 }
 
-/* Login form styling */
+
 .login_form {
     width: 100%;
     max-width: 435px;
@@ -34,7 +34,7 @@ body {
     text-align: center;
 }
 
-/* Google & Apple button styling */
+
 
 .login_form .login_option {
     display: flex;
@@ -107,7 +107,7 @@ form .input_box label {
     margin-bottom: 8px;
 }
 
-/* Input field styling */
+
 form .input_box input {
     width: 100%;
     height: 57px;
@@ -145,7 +145,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Login button styling */
+
 form button {
     width: 100%;
     height: 56px;
